@@ -61,5 +61,5 @@ To get started with the Book Social Network project, follow the setup instructio
 
 
 ## Contributors
-* [Sesnith Tharuka - LinkedIn](https://www.linkedin.com/in/sesmiththaruka/)
-* [Sesnith Tharuka - github](https://github.com/sesmiththaruka/)
+* [Sesmith Tharuka - LinkedIn](https://www.linkedin.com/in/sesmiththaruka/)
+* [Sesmith Tharuka - github](https://github.com/sesmiththaruka/)
